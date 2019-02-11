@@ -1,0 +1,23 @@
+{
+  "name": "hw-friendfinder",
+  "version": "1.0.0",
+  "description": "This is an app that simulates a dating app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarrettStraight/HW-FriendFinder.git"
+  },
+  "author": "Garrett Straight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarrettStraight/HW-FriendFinder/issues"
+  },
+  "homepage": "https://github.com/GarrettStraight/HW-FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
